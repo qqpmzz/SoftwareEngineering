@@ -1,0 +1,51 @@
+# Chapter 1 PDF 내용 추출 결과
+
+## 페이지 3
+
+•
+•
+
+---
+
+## 페이지 5
+
+•
+
+---
+
+## 페이지 6
+
+•
+
+---
+
+## 페이지 8
+
+uvicorn main:app --reload
+from fastapi import FastAPI
+app = FastAPI()
+@app.get("/health")
+def health_check():
+return {"status": "ok"}
+
+---
+
+## 페이지 9
+
+•
+
+---
+
+## 페이지 12
+
+•
+•
+
+---
+
+## 페이지 17
+
+•
+
+---
+

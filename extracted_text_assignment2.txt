@@ -1,0 +1,40 @@
+# Chapter 1 PDF 내용 추출 결과
+
+## 페이지 1
+
+이론 과제 #2
+1. 소프트웨어 공학의 목표에서
+개발 대상의 명확화, 개발 과정의 체계화, 개발 수명주기 지원에
+대하여 설명하시오.
+2. Legacy Software 는 무엇인가?
+How are Legacy Softwares changed? 서술하시오.
+3. Software Engineering Layers 는 왜 만들까요?
+4개의 Layers를 쓰고 설명하시오.
+4. 아래의 그림에 대하여 설명하시오.
+5. Umbrella Activities에서 아래의 단어들에 대하여 설명하시오.
+(1) Risk management.
+(2) Measurement.
+(3) Reusability management.
+
+---
+
+## 페이지 2
+
+/////////////////////////
+아래의 과제는 PPT로 제출하시오.
+6. Process Framework Activities 에는 아래의 단계가 있습니다.
+설정한 Software를 제작하기 위해서 해야 할 일들을 단계별로 서술하시오.
+(설정한 Software 에 맞추어서 진행되어야 할 특별한 일들을 각 단계에
+맞추어 서술하시오.)
+(1) Communication.
+(2) Planning.
+(3) Modeling.
+• Analysis of Requirements.
+• Design.
+(4) Construction:
+• Code Generation.
+• Testing.
+(5) Deployment.
+
+---
+

@@ -1,0 +1,154 @@
+# Chapter 1 PDF 내용 추출 결과
+
+## 페이지 1
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Software Engineering
+Hands-On Lecture 04
+–
+Software Engineering in the era of AI
+
+---
+
+## 페이지 2
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Goal
+• Base64  File Converter
+
+---
+
+## 페이지 3
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Goal
+• PyQt6 GUI Toolkit 사용
+• GithubRepository 연결
+• File to Base64 구현및테스팅
+• 배치파일생성
+• 확장
+
+---
+
+## 페이지 4
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Github Desktop
+
+---
+
+## 페이지 5
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Github Desktop 설치
+• Download GitHub Desktop | GitHub Desktop
+
+---
+
+## 페이지 6
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Create a new repo
+
+---
+
+## 페이지 7
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+실습1 :가 상환경생성및 PyQt6 설치
+• 생성한폴더에서터미널Open
+• 파이썬의경우python –m venv {name}를 통해간단히가상환경생성
+python –m venv venv -> (mac) : python3– m venv venv
+venv\scripts\activate - > (mac) :s ource venv/bin/activate
+• [라이브러리설치] pip install PyQt6
+• [VSCODE 실행] code
+
+---
+
+## 페이지 8
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+실습2 : 목표분석및 PRD 설계
+• 메모장/ 텍스트편집기활용
+• 포함해야하는것:
+• [1]최종적으로무엇을만들려고하는것인지-> PyQt6 기반의File to Base64 Converter
+• [2]구현계획은어떻게되는가?
+• 우선기능검증을위해CLI 에서실행가능한File to Base64변 환코드를만들것이다
+• 입력: 파일경로, 출력: .txt파일
+• 이후PyQt6 을기반으로하는GUI 형태로확장할것
+• [3]구 현을위한SRS 및체크리스트markdown 문서작성요청
+
+---
+
+## 페이지 9
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+[Codex CLI] Windows Approval Issue
+approval_mode = "full-auto“
+추가 (복붙 말고 직접 작성)
+-> Mac / Linux (WSL) 에서는 문제 없으나 Windows
+의 경우 config.toml수정 필요
+
+---
+
+## 페이지 10
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Claude Code샘 플
+
+---
+
+## 페이지 11
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Claude Code샘 플
+
+---
+
+## 페이지 12
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Claude Code샘 플
+
+---
+
+## 페이지 13
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+UI 스켈레톤 제작
+• 그림판 / PowerPoint등 활용
+• https://www.figmac.om
+
+---
+
+## 페이지 14
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+UI 스켈레톤 입력
+
+---
+
+## 페이지 15
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Git Push (Publish)
+
+---
+
+## 페이지 16
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+Cont.
+Drop
+
+---
+
+## 페이지 17
+
+CSE4201 –Software Engineering– Hands-On Lecture –Software engineering in the era of artificial intelligence
+TODO
+[1]내 File to Base64 Convert Too이l 미지 + 간단 평가 (문제점) – 1페이지 고정
+[2]Base64 to File을 함께 지원하는 도구로의 확장 방안을 담은 SRS 문서*
+
+---
+
